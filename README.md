@@ -1,2 +1,2 @@
 # hello-world
-Test creating new repo
+Hello, human
